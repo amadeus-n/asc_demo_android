@@ -1,1 +1,1 @@
-# asc_demo_android
+# Amity Social Cloud Android Demo
